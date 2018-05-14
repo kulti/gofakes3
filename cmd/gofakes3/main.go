@@ -6,7 +6,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/johannesboyne/gofakes3"
+	"github.com/kulti/gofakes3"
 )
 
 func main() {
